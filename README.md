@@ -5,6 +5,7 @@
 Проект "Cold-Hot" представляет собой игру, в которой игрок должен найти спрятанный объект, используя подсказки о его местоположении. Игра разработана с использованием языка PHP и базы данных SQLite для хранения результатов и истории игр. Цель игры — найти объект как можно быстрее, следуя указаниям "тепло" и "холодно", которые даются в зависимости от того, насколько близко игрок к объекту.
 
 Цель игры "Cold-Hot" — найти спрятанный объект на игровом поле как можно быстрее, используя подсказки о близости к объекту. Игрок стремится минимизировать количество ходов и время, необходимое для нахождения объекта.
+
 ---
 
 ## Правила игры
@@ -60,7 +61,7 @@
 
 1. **Склонируйте репозиторий**:
    ```bash
-   git clone https://github.com/shuryginaKN/cold-hot.git
+   git clone https://github.com/shuryginaKN/Cold-hot-web.git
    
 2. **Перейдите в папку проекта**:
 
@@ -72,7 +73,7 @@ cd cold-hot
 
 4. **Запуск через GitHub Pages**:
 Проект доступен онлайн через GitHub Pages:
-[Играть в Cold-hot](https://erefef.github.io/cold-hot/)
+[Играть в Cold-hot](https://shuryginakn.github.io/Cold-hot-web/)
 
 ## Технические требования
 - Современный браузер с поддержкой IndexedDB (например, Chrome, Firefox, Edge).
@@ -83,5 +84,5 @@ cd cold-hot
 - Для обновления проекта просто загрузите последнюю версию репозитория.
 
 ## Ссылки
-[GitHub Репозиторий](https://github.com/shuryginaKN/cold-hot.git)
-[Играть через GitHub Pages](https://erefef.github.io/minesweeper-web/)
+[GitHub Репозиторий](https://github.com/shuryginaKN/Cold-hot-web.git)
+[Играть через GitHub Pages](https://shuryginakn.github.io/Cold-hot-web/)
